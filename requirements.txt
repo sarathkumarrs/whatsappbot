@@ -4,8 +4,8 @@ catalogue==2.0.6
 certifi==2021.10.8
 chardet==4.0.0
 charset-normalizer==2.0.12
-ChatterBot==1.0.8
-chatterbot-corpus==1.2.0
+ChatterBot
+chatterbot-corpus
 click==8.0.4
 cymem==2.0.6
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.2.0/en_core_web_sm-3.2.0-py3-none-any.whl
@@ -30,7 +30,7 @@ preshed==3.0.6
 pydantic==1.8.2
 PyJWT==2.3.0
 pyparsing==3.0.7
-python-dateutil==2.8.2
+python-dateutil
 pytz==2021.3
 PyYAML==3.13
 regex==2022.3.15
